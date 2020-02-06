@@ -1,1 +1,1 @@
-GIT commands EPAM task
+GIT commands: EPAM task
